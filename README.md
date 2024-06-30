@@ -1,0 +1,2 @@
+# neovimrc
+💻 Neovim RC
