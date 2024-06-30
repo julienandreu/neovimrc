@@ -11,7 +11,7 @@ return {
         "L3MON4D3/LuaSnip",
         "saadparwaiz1/cmp_luasnip",
         "j-hui/fidget.nvim",
-	"neovim/nvim-lspconfig",
+        "neovim/nvim-lspconfig",
     },
 
     config = function()
@@ -38,7 +38,6 @@ return {
 		"dockerls",
 		"docker_compose_language_service",
 		"graphql",
-		"hls",
 		"html",
 		"htmx",
 		"helm_ls",
