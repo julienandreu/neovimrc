@@ -56,3 +56,7 @@ vim.keymap.set("n", "<leader><leader>", function()
     vim.cmd("so")
 end)
 
+vim.keymap.set("n", "<leader>nn", ":Neotree filesystem toggle<CR>", {})
+vim.keymap.set("n", "<leader>nf", ":Neotree focus<CR>", {})
+vim.keymap.set("n", "<leader>ns", ":Neotree show<CR>", {})
+vim.keymap.set("n", "<leader>nc", ":Neotree close<CR>", {})
